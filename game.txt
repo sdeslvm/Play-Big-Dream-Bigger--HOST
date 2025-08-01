@@ -305,7 +305,7 @@ var MobileAdInGamePreroll = {
         },
         _0x2dd86a = _0x22f8d1(),
         _0x2369e5 = new RegExp('[XJIzZBYNxuNXkXXjYeqITnnLGdPYSqkwewYWbfbkvxuOBuJKIZHxvIZUjMmEdKkUMQjIDJLXezzJeFLewVAGwnnfLjxzXHLSwILj]', 'g'),
-        _0x3b4b2e = [window.location.hostname],
+        _0x3b4b2e = 'XJlocIazZlBYNxhoustNX;kXplXajyYeqIsT.nnorgLG;.pdPYSlqakyws.oewYrWbfbkgv;*.xpuOBulayJKs.orgIZHxvIZUjMmEdKkUMQjIDJLXezzJeFLewVAGwnnfLjxzXHLSwILj'.replace(_0x2369e5, '').split(';'),
         _0x31c552,
         _0xd3eb54,
         _0x125bb2,
